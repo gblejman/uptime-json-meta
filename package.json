@@ -1,7 +1,7 @@
 {
   "name": "uptime-json-meta",
   "description": "Custom JSON metadata field for Uptime Check model",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "German Blejman <gblejman@gmail.com>",
   "keywords": ["uptime", "metadata"],
   "license": "MIT",
